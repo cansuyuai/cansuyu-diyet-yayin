@@ -30,3 +30,6 @@ havuzda bulunamadı). Kendi çekeceğin bir Rize fotoğrafını aynı adla koyma
 
 ## Sesler
 - su_dok.wav, su_damla.wav: "water_filling_glass_from_faucet", Google Actions Sound Library (https://developers.google.com/assistant/tools/sound-library/water), CC BY 4.0. Kısaltıldı ve ses düzeyi ayarlandı (21.11.2026).
+
+- cansu.jpg: Dyt. Cansu Özdal’ın kendi fotoğrafı (kullanıcı tarafından verildi). Açılış, Hakkımda ve mesaj ekranında kullanılır. EXIF temizlendi, 1000 px.
+- fonts/GreatVibes-Regular.ttf: Great Vibes, SIL Open Font License 1.1 (el yazısı "Dyt. Cansu" imzası).
